@@ -1,6 +1,9 @@
 # C-learning
 C++ self learning
 
+
+Reading Book C++ Primer 5th edition 
+
 ### Pointers
 ```
 int *ip = &x;  
