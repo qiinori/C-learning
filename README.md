@@ -76,3 +76,6 @@ enum can have fields, constructors and methods
 enum may implement many interfaces but cannot extend any class because it internally extends Enum class
 from https://www.javatpoint.com/cpp-enumeration
 https://www.geeksforgeeks.org/enumeration-enum-c/  
+
+### null
+null pointer constant  nullptr
